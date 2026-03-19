@@ -86,6 +86,13 @@ The way to verify this is that when we pop the stack after the branch conditiona
 
 This is the following result we got after the simulation wavefrom – 
 
+![image_alt](https://github.com/Rahi1908/Risc_V_Single_Cycle/blob/498bae493beb84a4c754de341aa1820958dcc44c/images/waveform.png)
+
+80 in hexadecimal is 128 , which means we have successfully retrieved the stack after poping , and also notice the a3 before this statement which is 163 in decimal , which means the we have successfully retrived the data after saving it in the stack .
+
+More elaborate wavefrom- 
+
+
 
 
 
