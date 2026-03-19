@@ -10,6 +10,10 @@ The design supports a significant subset of the RV32I base instruction set and f
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## 2. Architecture Overview
+
+![image_alt](https://github.com/Rahi1908/Risc_V_Single_Cycle/blob/526104b2894dec1bdcafc37b9dffe85c06e06dcc/images/Architecture.png)
+
+
   **Type**             **Instructions**
 1. R-Type   :      add, sub, and, or, xor, sll, srl, sra, slt, sltu
 2. I-Type   :      addi, andi, ori, xori, slti, sltui, slli, srli, srai
