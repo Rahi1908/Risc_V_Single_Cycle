@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
 ## 3. Data path overview
 The processor follows the standard single-cycle RISC-V datapath:
->> **Instruction Fetch** — PC increments by 4 each cycle, or jumps to branch target if PCSrc is asserted
->> **Instruction Decode** — Register file reads two source registers; ImmGen sign-extends the immediate
->> **Execute** — ALU performs the operation; second operand selected between register or immediate via ALUSrc mux
->> **Memory Access** — Data memory performs load or store based on control signals
->> **Write Back** — Result mux selects between ALU result and memory read data to write back to register file
+- **Instruction Fetch** — PC increments by 4 each cycle, or jumps to branch target if PCSrc is asserted
+- **Instruction Decode** — Register file reads two source registers; ImmGen sign-extends the immediate
+- **Execute** — ALU performs the operation; second operand selected between register or immediate via ALUSrc mux
+- **Memory Access** — Data memory performs load or store based on control signals
+- **Write Back** — Result mux selects between ALU result and memory read data to write back to register file
 
 ____________________________________________________________________________________________________________________________________________________________________
 
