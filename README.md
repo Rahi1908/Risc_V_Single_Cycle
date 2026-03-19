@@ -1,2 +1,10 @@
-# Risc_V_Single_Cycle
-Implemented a single-cycle RISC-V processor in Verilog, supporting RV32I instructions which includes the following instructions – add, sub, and, or, sll, slt,sltu, xor, srl, sra, addi, slti, sltui, xori, ori, andi,slli, srli, srai, sw, lw, beq. 
+# RISC-V Single-Cycle Processor — Verilog Implementation
+## Title
+Design and Implementation of a 32-bit RISC-V Single-Cycle Processor supporting RV32I Base Integer Instruction Set
+_______________________________________________________________________________________________________________________________________________________________________
+
+## 1.Introduction
+This project showcases the complete hardware implementation of a 32-bit single-cycle RISC-V processor using Verilog HDL. The processor was designed, simulated, and tested in Xilinx Vivado 2025.1. Each module in the datapath was first built and verified individually, and then integrated to form a fully working CPU.
+
+The design supports a significant subset of the RV32I base instruction set and follows the classic single-cycle architecture, where every instruction is executed in a single clock cycle. The instruction memory is implemented using big-endian byte ordering, and all immediate values are properly sign-extended in accordance with the RISC-V specification.
+________________________________________________________________________________________________________________________________________________________________________
