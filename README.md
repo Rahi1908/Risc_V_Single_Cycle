@@ -96,7 +96,7 @@ More elaborate wavefrom-
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-**Note** : This project is done as an assignment.
+**Note** : This project was completed as an assignment.
 Teammates - Rahi Pakhale, Vikram Singh
 
 
