@@ -78,6 +78,13 @@ ________________________________________________________________________________
 
 ## 5. Processor Verification
 
+**Assembly Code**
+
+![image_alt](https://github.com/Rahi1908/Risc_V_Single_Cycle/blob/0dd6506e256df692bbda905a7e25c3f4a350096f/images/assembly_code.png)
+
+The way to verify this is that when we pop the stack after the branch conditional statements we should retrieve 163 (in decimal ) 
+
+This is the following result we got after the simulation wavefrom – 
 
 
 
