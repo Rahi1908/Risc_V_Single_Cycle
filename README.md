@@ -92,6 +92,9 @@ This is the following result we got after the simulation wavefrom –
 
 More elaborate wavefrom- 
 
+![image_alt](https://github.com/Rahi1908/Risc_V_Single_Cycle/blob/354e17b80c4397d7b1150a53f7bf0d54e730c8e7/images/wavform.png)
+
+
 ![image_alt](https://github.com/Rahi1908/Risc_V_Single_Cycle/blob/4614611d425408d7e5eb7275dc71514770f07a12/images/waveform2.png)
 
 ___________________________________________________________________________________________________________________________________________________________________
